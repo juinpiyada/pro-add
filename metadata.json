@@ -1,0 +1,5 @@
+{
+  "name": "Script to Storyboard AI",
+  "description": "An application that takes a video script as input, analyzes it to identify key scenes, and then generates a series of storyboard images for those scenes using AI.",
+  "requestFramePermissions": []
+}
